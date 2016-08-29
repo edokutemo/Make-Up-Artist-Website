@@ -19,6 +19,7 @@ a {
     min-width: 1100px;
     width: 1100px;
     margin: 0 auto;
+    clear: both;
 }
 
 li {
@@ -63,11 +64,11 @@ header {
     background-size: cover;
 }
 
-.carousel {
+/*.carousel {
     max-width: 80%;
     margin: 0 auto;
     margin-bottom: 20px;
-}
+}*/
 
 .logo {
     display: block;
